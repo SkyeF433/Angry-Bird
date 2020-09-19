@@ -1,2 +1,1 @@
-# Angry-Bird
-Angry bird game
+# Box Class
